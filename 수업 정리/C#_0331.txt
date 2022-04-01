@@ -26,5 +26,5 @@ _ : 언더 스코어, 언더 바
 
 [ 출력문 ]
 Console.WriteLine(); -> 출력 후 개행이 된다
-Console.write();      -> 출력 후 개행이 되지 않는다  
+Console.write();     -> 출력 후 개행이 되지 않는다  
 
